@@ -26,7 +26,7 @@
 
 - Structural errors can lead to diseases like sickle cell anemia and fatal familial sleeping sickness.
   - Sickle cell anemia - genetic mutation that alters the shape of the hemoglobin(transfer oxygen) molecules
-- Occasionally, structural changes can enhance protein function, e.g., Eero Mäntyranta's enhanced EPO receptors.
+- Occasionally, structural changes can enhance protein function, e.g., Eero Mäntyranta's enhanced EPO receptors. (EPO is a hormone that increases red blood cell counts, and hence a person’s ability to transport oxygen to their muscles during exercise).
 
 **Gene Therapy**
 
