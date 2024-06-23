@@ -14,7 +14,7 @@
 ### Levels of Protein Structure
 
 - **Primary Structure**: Amino acid sequence and peptide bonds.
-- **Secondary Structure**: 3D organization of main chain atoms; includes alpha helices and beta sheets.
+- **Secondary Structure**: 3D organization of main chain atoms; including alpha helices and beta sheets.
 - **Tertiary Structure**: 3D organization of all atoms, including side chains (Primary and secondary structures connected/crumpled together + water).
 - **Quaternary Structure**: 3D organization of multi-subunit proteins (Multiple tertiary structures connected together).
 
@@ -51,7 +51,7 @@ Amino acids are fundamental building blocks of proteins, essential for various b
 
 ### Amino Acid Structure
 
-- **Basic Structure**: Amino acids consist of an amino group, carboxylic acid group, and a unique side chain (R group).
+- **Basic Structure**: Amino acids consist of an amino group, carboxylic acid group, and a unique side-chain (R group).
 - **Chiral Carbon**: The alpha carbon in amino acids is a chiral carbon with four unique groups, except for glycine.
 - **L and D Configurations**: L-amino acids are predominant in human biology due to their specific configurations.
 
@@ -135,3 +135,107 @@ Amino acids are fundamental building blocks of proteins, essential for various b
 > - Peptide bonds are rigid and planar due to resonance.
 > - Peptide bonds can be broken by acid hydrolysis or proteolysis.
 > - Proteolytic enzymes offer specific cleavage, while acid hydrolysis is nonspecific.
+
+***
+***
+
+# Unit 3: Classification and Properties of Amino Acids
+
+## Classification of Amino Acids
+
+### Introduction
+
+Amino acids exhibit diverse properties based on their side chains, leading to classification into distinct groups.
+
+### Nonpolar Hydrophobic Amino Acids
+
+Nonpolar amino acids are characterized by hydrophobic side chains, avoiding interaction with water.
+
+### Alkyl Side Chains
+
+- **Glycine (Gly)**: The simplest amino acid with a hydrogen atom as its side chain.
+- **Alanine (Ala)**: Contains a methyl group.
+- **Valine (Val)**: Branched chain with a methyl group.
+- **Methionine (Met)**: Contains a sulfur atom in its side chain.
+- **Leucine (Leu)**: Branched alkyl group.
+- **Isoleucine (Ile)**: Another branched alkyl group.
+- **Proline (Pro)**: Forms a unique ring structure affecting peptide chain flexibility. Originates from glutamic acid, with the carboxyl reduced to an aldehyde, followed by the amino group attacking to form a Schiff base and further reduction.
+  - **Properties**: Proline introduces kinks in polypeptides and is often found at the beginning of alpha helices. It is nonpolar and cyclic.
+
+> [!NOTE]
+> **Schiff base**: A compound containing a carbon-nitrogen double bond derived from the condensation of an amine with an aldehyde or ketone.
+
+> [!NOTE]
+> **Aldehyde**: An organic compound containing a carbonyl group (C=O) bonded to a hydrogen atom and a carbon group.
+
+> [!NOTE]
+> **Condensation reaction**: A chemical reaction in which two molecules combine to form a larger molecule, typically with the loss of a small molecule such as water.
+
+  
+
+### Aromatic Side Chains
+
+- **Phenylalanine (Phe)**: Aromatic ring structure.
+- **Tryptophan (Trp)**: Largest amino acid with an indole ring.
+  - **Properties**: Tryptophan has an indole substituent on the beta-carbon. The nitrogen in the indole group does not have a free lone pair to act as a base due to resonance. It is nonpolar and aromatic.
+
+> [!NOTE]
+> **Indole ring**: A bicyclic compound containing a benzene ring fused to a pyrrole ring.
+
+  
+
+### Polar Hydrophilic Amino Acids
+
+Polar amino acids interact readily with water due to their side chain properties.
+
+### Neutral Polar Amino Acids
+
+- **Serine (Ser)**: Contains a hydroxyl group.
+- **Threonine (Thr)**: Similar to serine with an additional methyl group.
+- **Asparagine (Asn)**: Contains an amide group.
+- **Glutamine (Gln)**: Similar to asparagine but with an additional methylene group.
+- **Cysteine (Cys)**: Contains a thiol group.
+  - **Properties**: Cysteine residues close in space may form disulfide bridges under oxidizing conditions. They are also basic because of their side chain, which is positively charged at pH values below their pKa.
+- **Tyrosine (Tyr)**: Aromatic ring with a hydroxyl group.
+
+> [!NOTE]
+> **Thiol group**: A functional group containing a sulfur atom bonded to a hydrogen atom.
+
+  
+
+### Acidic Polar Amino Acids
+
+- **Aspartic Acid (Asp)**: Contains a carboxyl group, capable of donating protons.
+- **Glutamic Acid (Glu)**: Contains a longer carboxyl side chain.
+
+### Basic Polar Amino Acids
+
+- **Histidine (His)**: Contains an imidazole ring.
+  - **Properties**: The imidazole group in histidine has a pKa of 6.0, allowing it to exist predominantly in a neutral form at physiological pH.
+> [!NOTE]
+> **Imidazole ring**: A five-membered aromatic ring containing two nitrogen atoms.
+
+  
+
+- **Lysine (Lys)**: Contains an amino group attached to a hydrocarbon chain.
+  - **Properties**: The amine group in lysine has a pKa of 10.5, making it positively charged at physiological pH.
+> [!NOTE]
+> **Amino group**: A functional group containing a nitrogen atom bonded to two hydrogen atoms.
+
+  
+
+- **Arginine (Arg)**: Contains a guanidinium group.
+  - **Properties**: The guanidine group in arginine has a pKa of 12.5, making it strongly basic and positively charged at physiological pH.
+> [!NOTE]
+> **Guanidinium group**: A functional group containing three nitrogen atoms.
+
+  
+
+### Properties and Interactions
+
+Each group of amino acids exhibits specific chemical properties affecting their interactions within proteins and with the surrounding environment.
+
+### Importance in Biological Systems
+
+Understanding amino acid classification aids in comprehending protein structure, function, and their roles in biological processes.
+
