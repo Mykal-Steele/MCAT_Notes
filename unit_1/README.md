@@ -25,10 +25,6 @@
 > [!IMPORTANT]
 > **Native Conformations**: Proper folding maximizes the freedom of movement for surrounding water molecules, with hydrophobic residues on the inside and hydrophilic residues on the outside, resulting in less disruption of the water molecules' hydrogen bonding network (promoting entropy).
 
-𓆝 𓆟 𓆞 𓆝 𓆟𓆉𓇼
-
-𓆝 𓆟 𓆞 𓆝 𓆟𓆉𓇼
-
 ### Diseases from Protein Structure Errors
 
 - Structural errors can lead to diseases like sickle cell anemia and fatal familial sleeping sickness.
@@ -80,15 +76,6 @@ Amino acids are fundamental building blocks of proteins, essential for various b
 ### Structure of an Amino Acid
 - **Backbone**: Consists of an amino group (NH₂), a carboxylic acid group (COOH), an alpha carbon (Cα), and a variable side chain (R group).
   
-𓆝 𓆟 𓆞 𓆝 𓆟𓆉𓇼
-
-𓆝 𓆟 𓆞 𓆝 𓆟𓆉𓇼
-
-𓆝 𓆟 𓆞 𓆝 𓆟𓆉𓇼
-
-𓆝 𓆟 𓆞 𓆝 𓆟𓆉𓇼
-
-
 ### Formation of Peptide Bonds
 - **Peptide bonds** are a type of **amide bond**.
 - They are formed through a **condensation reaction** (a type of nucleophilic addition-elimination reaction).
