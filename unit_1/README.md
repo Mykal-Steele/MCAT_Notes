@@ -2,7 +2,8 @@
 
 # Unit 1: Amino Acids and Proteins
 
-## Introduction to Proteins
+## Introduction to Proteins 
+
 
 ### Structure and Function of Globular Proteins
 
@@ -63,7 +64,8 @@ Amino acids are fundamental building blocks of proteins, essential for various b
 
 - **Protein Synthesis**: Amino acids link together via peptide bonds to form proteins.
 - **Structural Variability**: Twenty different amino acids contribute to diverse protein structures and functions.
-
+***
+***
 # Unit 2: Peptide Bonds and Polypeptides: Formation and Cleavage
 
 ## Peptide Bond Formation
